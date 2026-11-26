@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/app-BB7egeey.js","assets/firebase-Ck_NSo1w.js","assets/index-BiSPPt5W.js","assets/motion-CvWKGIhr.js","assets/vendor-C4iHgVvL.js","assets/index-DCYoLvZi.css"])))=>i.map(i=>d[i]);
+import{am as t}from"./index-BiSPPt5W.js";import"./motion-CvWKGIhr.js";import"./vendor-C4iHgVvL.js";let e=null;function _(){return e||(e=t(()=>import("./app-BB7egeey.js"),__vite__mapDeps([0,1,2,3,4,5])).then(r=>r.getFirebase())),e}export{_ as loadFirebase};

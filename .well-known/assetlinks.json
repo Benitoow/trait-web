@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fr.benitoow.trait",
+      "sha256_cert_fingerprints": [
+        "C7:22:C5:44:CF:E5:05:92:4E:D5:E7:3C:CF:14:77:18:33:6F:4D:34:33:D5:35:2F:E9:4C:69:2B:AB:7C:75:7D"
+      ]
+    }
+  }
+]
